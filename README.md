@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Reyansh, a freshman at Yale University planning to study computer science, statistics, and data science.
+I'm Reyansh, a freshman at Yale University planning to study computer science, statistics, and data science. I'm a machine learning researcher and software developer.
 
 ## **Machine Learning Projects**
 * [Assistant](https://github.com/reybahl/Assistant): A machine learning powered, voice-based virtual assistant for Raspberry Pi. Supports several features like conversation, weather, opening websites, geolocation, date/time, and creating timers.
@@ -11,10 +11,11 @@ I'm Reyansh, a freshman at Yale University planning to study computer science, s
 
 ## **Other Projects/Repositories**
 * [Algorithmic Programming](https://github.com/reybahl/Algorithmic-Programming): This repository contains my solutions to various programming problems from multiple sources including the USA Computing Olympiad, Codeforces, and CSES.
-* [Chess](https://github.com/reybahl/Algorithmic-Programming): Developed in my AP Computer Science class, this was a full chess game with a GUI implemented in Java. A demo video is linked in the repository.
+* [Chess](https://github.com/reybahl/Chess-Game): Developed in my AP Computer Science class, this was a full chess game with a GUI implemented in Java. A demo video is linked in the repository.
 * [Green Level High AI and Machine Learning Club](https://github.com/GLHS-AI-Machine-Learning): Founded and was the president of the club for 3 years; led several projects, created lessons, and developed the website.
 
-
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,flask,raspberrypi,figma,firebase,mysql,git,linux,ubuntu,flutter,html,css,js,vscode,vim,lua,pycharm,idea,androidstudio,)](https://skillicons.dev)
 
 <!--
 **reybahl/reybahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
