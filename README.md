@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Reyansh, a freshman at Yale University planning to study computer science, statistics, and data science. I'm a machine learning researcher and software developer. My interests include natural language processing (NLP), computer vision, remote sensing, signal processing, deep learning, web development, and app development.
+I'm Reyansh, a freshman at Yale University planning to study computer science. I'm a machine learning researcher and software developer. My interests include natural language processing (NLP), computer vision, remote sensing, signal processing, deep learning, web development, and app development.
 
 ## **Machine Learning Projects**
 * [Assistant](https://github.com/reybahl/Assistant): A machine learning powered, voice-based virtual assistant for Raspberry Pi. Supports several features like conversation, weather, opening websites, geolocation, date/time, and creating timers.
