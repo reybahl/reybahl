@@ -10,10 +10,9 @@ I'm Reyansh, a freshman at Yale University planning to study computer science. I
 * [Kaggle Notebooks](https://www.kaggle.com/reymaster/code): I'm ranked an expert on Kaggle and have published 18+ notebooks detailing my approaches to various real-world problems using machine learning.
 
 ## **Other Projects/Repositories**
-* [Algorithmic Programming](https://github.com/reybahl/Algorithmic-Programming): This repository contains my solutions to various programming problems from multiple sources including the USA Computing Olympiad, Codeforces, and CSES.
 * [Chess](https://github.com/reybahl/Chess-Game): Developed in my AP Computer Science class, this was a full chess game with a GUI implemented in Java. A demo video is linked in the repository.
-* [Key Club Website](https://github.com/reybahl/GLHS-KeyClub): Website for Green Level High School Key Club. Website Link: https://glhs-keyclub.web.app/
-* [Machine Learning Club Website](https://github.com/reybahl/GLHS-AI-Machine-Learning): Website for Green Level High School AI and Machine Learning Club. Website Link: https://glhs-aiclub.web.app/
+* [Key Club Website](https://glhs-keyclub.web.app/): Website for Green Level High School Key Club. Website Link: https://glhs-keyclub.web.app/
+* [Machine Learning Club Website](https://glhs-aiclub.web.app/): Website for Green Level High School AI and Machine Learning Club. Website Link: https://glhs-aiclub.web.app/
 * [Green Level High AI and Machine Learning Club](https://github.com/GLHS-AI-Machine-Learning): Founded and was the president of the club for 3 years; led several projects, created lessons, and developed the website.
 
 ## Skills
