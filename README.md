@@ -17,7 +17,7 @@ I'm Reyansh, a freshman at Yale University planning to study computer science. I
 * [Green Level High AI and Machine Learning Club](https://github.com/GLHS-AI-Machine-Learning): Founded and was the president of the club for 3 years; led several projects, created lessons, and developed the website.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,flask,raspberrypi,figma,firebase,mysql,git,linux,ubuntu,flutter,html,css,js,bootstrap,vscode,vim,lua,pycharm,idea,androidstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,flask,raspberrypi,figma,firebase,mysql,git,linux,ubuntu,flutter,html,css,js,bootstrap,vscode,vim,lua,pycharm,idea,androidstudio,angular,nodejs,express)](https://skillicons.dev)
 
 <!--
 **reybahl/reybahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
