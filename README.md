@@ -11,6 +11,7 @@ I'm Reyansh, a freshman at Yale University planning to study computer science. I
 
 ## **Other Projects/Repositories**
 * [Chess](https://github.com/reybahl/Chess-Game): Developed in my AP Computer Science class, this was a full chess game with a GUI implemented in Java. A demo video is linked in the repository.
+* [NoteTaker](https://github.com/reybahl/NoteTaker): Full-stack note taking web application (MEAN stack)
 * [Key Club Website](https://glhs-keyclub.web.app/): Website for Green Level High School Key Club. Website Link: https://glhs-keyclub.web.app/
 * [Machine Learning Club Website](https://glhs-aiclub.web.app/): Website for Green Level High School AI and Machine Learning Club. Website Link: https://glhs-aiclub.web.app/
 * [Green Level High AI and Machine Learning Club](https://github.com/GLHS-AI-Machine-Learning): Founded and was the president of the club for 3 years; led several projects, created lessons, and developed the website.
