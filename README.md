@@ -5,6 +5,7 @@ I'm Reyansh, a freshman at Yale University planning to study computer science. I
 ## **Machine Learning Projects**
 * [Assistant](https://github.com/reybahl/Assistant): A machine learning powered, voice-based virtual assistant for Raspberry Pi. Supports several features like conversation, weather, opening websites, geolocation, date/time, and creating timers.
 * [SOC Mapper and Predictor](https://github.com/reybahl/SOCPrediction): Using machine learning to analyze remote sensing imagery from NASA's Landsat 8 satellite to monitor and predict soil organic carbon and help facilitate regenerative agriculture, improve soil carbon sequestration, and fight climate change.
+* [SciQALM](https://github.com/reybahl/SciQALM): Science Question Answering Language Model -- Retrieval-Augmented Generation (RAG) with Zephyr 7B β model, all-MiniLM-L6-v2, and Atlas Vector Search for scientific question answering based on arXiv papers
 * [RSS time-series classification](https://github.com/reybahl/Movement-Prediction-Time-Series): Using machine learning to classify time series of radio signal strength (RSS) between nodes of a Wireless Sensor Network (WSN). This is used to predict the pattern of user movements in real-world office environments and has applications in ambient assisted living.
 * [Argumentative Element Identification](https://github.com/reybahl/Argumentative-Element-Identification): Using token classification to determine distinct argumentative elements, including claim, evidence, etc. Used Longformer (Long-Document Transformer) model for token classification.
 * [Kaggle Notebooks](https://www.kaggle.com/reymaster/code): I'm ranked an expert on Kaggle and have published 18+ notebooks detailing my approaches to various real-world problems using machine learning.
@@ -17,7 +18,7 @@ I'm Reyansh, a freshman at Yale University planning to study computer science. I
 * [Green Level High AI and Machine Learning Club](https://github.com/GLHS-AI-Machine-Learning): Founded and was the president of the club for 3 years; led several projects, created lessons, and developed the website.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,flask,raspberrypi,figma,firebase,mysql,git,linux,ubuntu,flutter,html,css,js,bootstrap,vscode,vim,lua,pycharm,idea,androidstudio,angular,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,flask,raspberrypi,figma,firebase,mysql,git,linux,ubuntu,flutter,html,css,js,bootstrap,vscode,vim,lua,pycharm,idea,androidstudio,angular,nodejs,express,mongodb)](https://skillicons.dev)
 
 <!--
 **reybahl/reybahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
